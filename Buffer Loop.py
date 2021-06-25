@@ -28,7 +28,7 @@ print 'beneficiary='+'beneficiary'
 for bene  in beneficiary:
     print
     print'bene='+bene
-    query = '"bene" = \'{}\''.format(bene)
+    query = 'bene = '{}''.format(bene)
     output = "C:/Users/HP/Desktop/PM_CompostBuffer/{}_.shp".format(bene)
     arcpy.Select_analysis(shapefile,output,query)
 
