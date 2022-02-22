@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Folder>
+      <name>checked_Burned_Polygons</name>
+      <Placemark id="checked_Burned_Polygons.1">
+        <name>Untitled Polygon</name>
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -121.393342466065,39.8925824370239,0
+                -121.391328657124,39.8879690958313,0
+                -121.373597900383,39.8896747098361,0
+                -121.372956015117,39.894827273381,0
+                -121.362953265645,39.9100682827926,0
+                -121.350218973313,39.927163604823,0
+                -121.369250103057,39.9211218248063,0
+                -121.37826713357,39.9177210065014,0
+                -121.390251702694,39.900767507314,0
+                -121.393342466065,39.8925824370239,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="checked_Burned_Polygons.2">
+        <name>Untitled Polygon</name>
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -121.40142490589,39.8682626963588,0
+                -121.393986770068,39.8664535870798,0
+                -121.389745692395,39.8716418785981,0
+                -121.393935702035,39.872071215996,0
+                -121.394997298438,39.8804441894445,0
+                -121.398414032469,39.8814770042775,0
+                -121.399630351745,39.8748093598276,0
+                -121.40142490589,39.8682626963588,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="checked_Burned_Polygons.3">
+        <name>Untitled Polygon</name>
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -121.349963055339,39.9427620130802,0
+                -121.344988456745,39.9451443937612,0
+                -121.354541756202,39.9499256223253,0
+                -121.359746210147,39.9475684449291,0
+                -121.349963055339,39.9427620130802,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="checked_Burned_Polygons.4">
+        <name>Untitled Polygon</name>
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -121.375935364969,39.9398461623,0
+                -121.371852374975,39.9398020968469,0
+                -121.37242321216,39.9444332107521,0
+                -121.377101451295,39.9446086825219,0
+                -121.375935364969,39.9398461623,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
