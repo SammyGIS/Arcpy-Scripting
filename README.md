@@ -1,5 +1,5 @@
-# ARGIS 
+# Arcpy Programming 
 
-The Respiratory contains python scripts for performiang short geospatial analyssi in python to automate a geo processes
+The repository contains python scripts for performiang geospatial analysis in python to automate a geoanalytical processes
 
-the main module will used is arcpy module and it will be supported by other module depending on task
+The main module will used is arcpy module and it will be supported by other module depending on task
